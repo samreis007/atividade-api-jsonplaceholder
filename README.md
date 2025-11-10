@@ -57,14 +57,20 @@ A configuração do TailwindCSS deverá ser feita no projeto de acordo com o tut
 Cada membro da equipe deverá solicitar uma pull request ao repositório original de acordo com a realização de sua parte da tarefa designada pelo sorteio feito em sala de aula
 
 ## Equipes e suas tarefas
-1) Configuração do TailwindCSS, criação e configuração dos arquivos `index.tsx` e `_layout.tsx` e criação da pasta `app/users`;
-2) Criação da pasta `types` e do arquivo `users.ts` e criação da pasta `services` e do arquivo `userService.ts`;
-3) Criação do arquivo `app/users/index.tsx` e a modelagem da tela com os usuários;
-4) Criação do arquivo `app/users/user.tsx` e a modelagem da tela com os dados do usuário;
-5) Criação do arquivo `app/users/form.tsx` e a modelagem da tela com o preenchimento dos dados do usuário;
+1) Configuração do TailwindCSS, criação e configuração dos arquivos `index.tsx` e `_layout.tsx` da pasta `app` e criação da pasta `app/users`;
+2) Criação da pasta `types` e configuração do arquivo `users.ts` e criação da pasta `services` e configuração do arquivo `userService.ts`;
+3) Criação, configuração do arquivo `app/users/index.tsx` e a modelagem da tela com os usuários;
+4) Criação, configuração do arquivo `app/users/user.tsx` e a modelagem da tela com os dados do usuário;
+5) Criação, configuração do arquivo `app/users/form.tsx` e a modelagem da tela com o preenchimento dos dados do usuário;
 
 ## Sorteio das equipes
-Será feito em uma plataforma online com resultado anexado na atividade na plataforma Sala de Aula
+Será feito em uma plataforma online com resultado anexado na atividade na plataforma Sala de Aula.
+Resultado do sorteio conforme a numeração das equipes no item anterior:
+- Equipe 1: Beatriz e Thiago
+- Equipe 2: Amanda e Marques
+- Equipe 3: Edmilson e Franklin
+- Equipe 4: Samuel e Deyse
+- Equipe 5: Ramos e Ranna
 
 
 
